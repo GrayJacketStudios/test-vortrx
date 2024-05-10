@@ -1,0 +1,5 @@
+userid: s11
+passwd: p32
+
+char_ip: 148.113.171.102
+map_ip: 148.113.171.102

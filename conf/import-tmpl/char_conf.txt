@@ -1,0 +1,7 @@
+userid: s11
+passwd: p32
+
+server_name: vortrx
+
+login_ip: 148.113.171.102
+char_ip: 148.113.171.102

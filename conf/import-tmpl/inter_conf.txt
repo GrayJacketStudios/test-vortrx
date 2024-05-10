@@ -1,0 +1,32 @@
+// SQL Configuracion
+// login
+login_server_ip: 127.0.0.1
+login_server_port: 3306
+login_server_id: vortrx_user
+login_server_pw: sqbmcJpm4K0SeyQK
+login_server_db: vortrx
+
+//ipban
+ipban_db_id: vortrx_user
+ipban_db_pw: sqbmcJpm4K0SeyQK
+ipban_db_db: vortrx
+
+//char
+char_server_id: vortrx_user
+char_server_pw: sqbmcJpm4K0SeyQK
+char_server_db: vortrx
+
+//map
+map_server_id: vortrx_user
+map_server_pw: sqbmcJpm4K0SeyQK
+map_server_db: vortrx
+
+//web
+web_server_id: vortrx_user
+web_server_pw: sqbmcJpm4K0SeyQK
+web_server_db: vortrx
+
+//logs
+log_db_id: vortrx_logs
+log_db_pw: OldP8eTsGrxlibDs
+log_db_db: vortrx_logs
